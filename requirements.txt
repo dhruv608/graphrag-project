@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+langchain-pinecone
+langchain-neo4j
+langchain-google-genai
+python-dotenv
+rich
